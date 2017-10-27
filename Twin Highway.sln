@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9292770D-FBC3-5444-CE9D-29CA4A9894D4}") = "Twin Highway", "Assembly-CSharp-firstpass.csproj", "{7EA85AAD-B897-BCDE-7003-20A1B004CD19}"
+EndProject
+Project("{9292770D-FBC3-5444-CE9D-29CA4A9894D4}") = "Twin Highway", "Assembly-CSharp.csproj", "{8C1C1D49-CDC5-8B3B-6A10-224D3BB4C4E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA85AAD-B897-BCDE-7003-20A1B004CD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA85AAD-B897-BCDE-7003-20A1B004CD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA85AAD-B897-BCDE-7003-20A1B004CD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA85AAD-B897-BCDE-7003-20A1B004CD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C1C1D49-CDC5-8B3B-6A10-224D3BB4C4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1C1D49-CDC5-8B3B-6A10-224D3BB4C4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1C1D49-CDC5-8B3B-6A10-224D3BB4C4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1C1D49-CDC5-8B3B-6A10-224D3BB4C4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
